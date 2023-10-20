@@ -2,7 +2,8 @@
 
 > This project was created as part of the Machine Learning course at the University of Würzburg.
 
-![image](assets/slideshow.gif)
+<img src="assets/slideshow.gif" width="600">
+
 
 ## Project Description
 
@@ -16,7 +17,8 @@ By training the library on the annotated video gestures, the model is able to re
 
 ## Tetris Teaser
 
-![image](assets/tetris.gif)
+<img src="assets/tetris.gif" width="600">
+
 
 ## Setup
 
