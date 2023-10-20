@@ -1,0 +1,12 @@
+.venv
+.env
+.idea
+.vscode
+.pytest_cache
+*.pyc
+.ipynb_checkpoints
+.DS_STORE
+Pipfile
+Pipfile.lock
+src\gesture_control\training_logs
+tests/lightning_logs/*

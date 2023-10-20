@@ -1,0 +1,12 @@
+opencv-python
+numpy
+mediapipe
+# mediapipe-silicon
+pandas
+sanic
+matplotlib
+tqdm
+seaborn
+jupyter
+pygame
+git+https://github.com/strasserpatrick/neural_network_framework.git
